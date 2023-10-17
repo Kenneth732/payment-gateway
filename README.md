@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [Kenneth] [Mburu]
 
-Feel free to contact me at [your@email.com] if you have any questions or need assistance.
+Feel free to contact me at [kenabdi21@gmail.com] if you have any questions or need assistance.
 ```
 
