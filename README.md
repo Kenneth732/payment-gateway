@@ -1,4 +1,4 @@
-#Flask Web application and stripe
+# Flask Web application and stripe
 ```markdown
 # Flask Stripe Checkout Example
 
