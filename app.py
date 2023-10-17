@@ -16,3 +16,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template('index.html', key=stripe_keys['pk_test_51O0EYTBSiu2J8WSY8BPlDOXRnwSB6X15HmG6znnnAL3wvT18QsaTt73NlvfTXUDhLpL632AKEWYHfMON54qLSWKE004AfEbyXM'])
+
+@app.route('/charge', methods=['POST'])
+def charge():
+
