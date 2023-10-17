@@ -17,7 +17,7 @@ Before running this application, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/flask-stripe-checkout.git
+   git clone https://github.com/Kenneth732/payment-gateway.git
    ```
 
 2. Navigate to the project directory:
